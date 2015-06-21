@@ -2,7 +2,7 @@ import random
 
 while 1==1:
 	print("")
-	print("This is a programme written in python to test your mental maths skills. It was created by Edward Bristow, from MEEB Technology.")
+	print("This is a programme written in python to test your mental maths skills. It was created by SirEdBr, from reading-school-cs-club.")
 	print("Press Ctrl and the letter 'C' to stop this programme.")
 	print("What type of test do you want? Type 1 for addition, 2 for subtraction, 3 for division, 4 for multiplication and 5 for number bonds.")
 	choice = input("")
